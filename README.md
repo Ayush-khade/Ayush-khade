@@ -31,9 +31,6 @@ I am an experienced React Native developer with over 4 years of expertise in bui
 - **NPM Library**: [react-native-tooltip-progress-bar](https://github.com/Ayush-khade/react-native-tooltip-progress-bar) - A React Native module that combines a tooltip with a progress bar.
 - **NPM Library**: [react-native-progress-steps-indicator](https://github.com/Ayush-khade/react-native-progress-steps-indicator) - A customizable progress indicator component for React Native applications.
 
-## 📈 GitHub Stats
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-khade&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect!
 - Portfolio: [ayushkhade.com](https://ayushkhade.com/)
 - GitHub: [github.com/Ayush-khade](https://github.com/Ayush-khade)
